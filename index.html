@@ -2,7 +2,7 @@
 <html>
 <head>
 	
-	<title>Layers Control Tutorial - Leaflet</title>
+	<title>Annapurna Centres in Hyderabad</title>
 
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,11 +19,11 @@
 			margin: 0;
 		}
 		#map {
-			width: 600px;
-			height: 400px;
+			width: 100%;
+			height: 100%;
 		}
 	</style>
-
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 	
 </head>
 <body>
@@ -31,38 +31,29 @@
 <div id='map'></div>
 
 <script>
-	var cities = L.layerGroup();
+	var map = L.map('map').setView([17.3861371,78.4638649], 12);
 
-	L.marker([39.61, -105.02]).bindPopup('This is Littleton, CO.').addTo(cities),
-	L.marker([39.74, -104.99]).bindPopup('This is Denver, CO.').addTo(cities),
-	L.marker([39.73, -104.8]).bindPopup('This is Aurora, CO.').addTo(cities),
-	L.marker([39.77, -105.23]).bindPopup('This is Golden, CO.').addTo(cities);
+	L.tileLayer( 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+	    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+	    subdomains: ['a','b','c']
+	}).addTo( map );
 
-
-	var mbAttr = 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-			'<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-		mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw';
-
-	var grayscale   = L.tileLayer(mbUrl, {id: 'mapbox/light-v9', tileSize: 512, zoomOffset: -1, attribution: mbAttr}),
-		streets  = L.tileLayer(mbUrl, {id: 'mapbox/streets-v11', tileSize: 512, zoomOffset: -1, attribution: mbAttr});
-
-	var map = L.map('map', {
-		center: [39.73, -104.99],
-		zoom: 10,
-		layers: [grayscale, cities]
+	$.getJSON("ghmc.geojson",function(data){
+		var foodIcon = L.icon({
+		    iconUrl: 'food.png',
+		    iconSize: [40,40]
+		});
+		// add GeoJSON layer to the map once the file is loaded
+		L.geoJson(data ,{
+		pointToLayer: function(feature,latlng){
+	 	 	return L.marker(latlng,{icon: foodIcon});
+    	},
+		onEachFeature: function(feature, featureLayer) {
+			featureLayer.bindPopup("The Annapurna canteen at "+feature.properties.completeaddress + " can feed "+ feature.properties.persons+" persons");
+		}
+		}).addTo(map);
 	});
 
-	var baseLayers = {
-		"Grayscale": grayscale,
-		"Streets": streets
-	};
-
-	var overlays = {
-		"Cities": cities
-	};
-
-	L.control.layers(baseLayers, overlays).addTo(map);
 </script>
 
 

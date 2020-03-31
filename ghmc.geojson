@@ -1,0 +1,2756 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "9B",
+        "division": "80",
+        "address": "Manjeera Hotel, Kachiguda",
+        "constituency": "Amberpet",
+        "city": "Hyderabad",
+        "completeaddress": "Manjeera Hotel, Kachiguda Amberpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4928904,
+          17.389214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "9",
+        "division": "81",
+        "address": "Fever Hospital",
+        "constituency": "Amberpet",
+        "city": "Hyderabad",
+        "completeaddress": "Fever Hospital Amberpet Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5023902,
+          17.395964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "9",
+        "division": "82",
+        "address": "Golnaka",
+        "constituency": "Amberpet",
+        "city": "Hyderabad",
+        "completeaddress": "Golnaka Amberpet Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5075126,
+          17.388837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "Central",
+        "circle": "9B",
+        "division": "83",
+        "address": "Ali Caf� Labour Adda",
+        "constituency": "Amberpet",
+        "city": "Hyderabad",
+        "completeaddress": "Ali Caf� Labour Adda Amberpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5234947,
+          17.3819084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "Central",
+        "circle": "9",
+        "division": "84",
+        "address": "Bagh Amberpet",
+        "constituency": "Amberpet",
+        "city": "Hyderabad",
+        "completeaddress": "Bagh Amberpet Amberpet Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5166531,
+          17.3959949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "5B",
+        "division": "47",
+        "address": "Teegalakunta",
+        "constituency": "Bahadurpura",
+        "city": "Hyderabad",
+        "completeaddress": "Teegalakunta Bahadurpura Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4570776,
+          17.3342336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "5",
+        "division": "55",
+        "address": "Bahadurpura",
+        "constituency": "Bahadurpura",
+        "city": "Hyderabad",
+        "completeaddress": "Bahadurpura Bahadurpura Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4616959,
+          17.3574259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "5",
+        "division": "55",
+        "address": "Tadbund",
+        "constituency": "Bahadurpura",
+        "city": "Hyderabad",
+        "completeaddress": "Tadbund Bahadurpura Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4831861,
+          17.4553121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "5B",
+        "division": "55",
+        "address": "Quliqutubshah Polytechnic College",
+        "constituency": "Bahadurpura",
+        "city": "Hyderabad",
+        "completeaddress": "Quliqutubshah Polytechnic College Bahadurpura Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4571148,
+          17.3515124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "South",
+        "circle": "5",
+        "division": "56",
+        "address": "Kishanbagh",
+        "constituency": "Bahadurpura",
+        "city": "Hyderabad",
+        "completeaddress": "Kishanbagh Bahadurpura Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4616959,
+          17.3574259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "4",
+        "division": "40",
+        "address": "Rakshapuram",
+        "constituency": "Chandrayangutta",
+        "city": "Hyderabad",
+        "completeaddress": "Rakshapuram Chandrayangutta Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4929529,
+          17.3388615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "4C",
+        "division": "41",
+        "address": "Mithani Jn",
+        "constituency": "Chandrayangutta",
+        "city": "Hyderabad",
+        "completeaddress": "Mithani Jn Chandrayangutta Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4743396,
+          17.3050874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "4A",
+        "division": "43",
+        "address": "Chandrayangutta X Road",
+        "constituency": "Chandrayangutta",
+        "city": "Hyderabad",
+        "completeaddress": "Chandrayangutta X Road Chandrayangutta Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4764935,
+          17.3266885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "4C",
+        "division": "43",
+        "address": "Kandikal gate",
+        "constituency": "Chandrayangutta",
+        "city": "Hyderabad",
+        "completeaddress": "Kandikal gate Chandrayangutta Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4803447,
+          17.3295799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "4",
+        "division": "32",
+        "address": "Mir Alam Mandi",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "Mir Alam Mandi Charminar Hyderabad ",
+        "persons": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.479812,
+          17.3646647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "south",
+        "circle": "4A",
+        "division": "32",
+        "address": "Dhurrashewar hospital",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "Dhurrashewar hospital Charminar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4732381,
+          17.3552383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "5A",
+        "division": "32",
+        "address": "City Civil Court",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "City Civil Court Charminar Hyderabad ",
+        "persons": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.478792,
+          17.3681735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "4",
+        "division": "33",
+        "address": "Asra Hospital",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "Asra Hospital Charminar Hyderabad ",
+        "persons": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4742233,
+          17.3564781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "South",
+        "circle": "5",
+        "division": "49",
+        "address": "Charminar Bus Stand",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "Charminar Bus Stand Charminar Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.473749,
+          17.359024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "South",
+        "circle": "5",
+        "division": "49",
+        "address": "Judgekhana (Petlaburz Govt- Maternity Hospital)",
+        "constituency": "Charminar",
+        "city": "Hyderabad",
+        "completeaddress": "Judgekhana (Petlaburz Govt- Maternity Hospital) Charminar Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4676884,
+          17.3683384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "5",
+        "division": "50",
+        "address": "Begumbazar",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "Begumbazar Goshamahal Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4696874,
+          17.3776074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "5",
+        "division": "50",
+        "address": "State central library",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "State central library Goshamahal Hyderabad ",
+        "persons": "360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4782201,
+          17.3741843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "5",
+        "division": "50",
+        "address": "Osmania General Hospital",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "Osmania General Hospital Goshamahal Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.473806,
+          17.3726334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "Central",
+        "circle": "8",
+        "division": "77",
+        "address": "ENT Hospital, Koti",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "ENT Hospital, Koti Goshamahal Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4820286,
+          17.3844039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "Central",
+        "circle": "8",
+        "division": "78",
+        "address": "King Koti",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "King Koti Goshamahal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4822982,
+          17.3942886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "Central",
+        "circle": "8",
+        "division": "78",
+        "address": "Nampally Sarai",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "Nampally Sarai Goshamahal Hyderabad ",
+        "persons": "360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4680902,
+          17.3789045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "Central",
+        "circle": "8",
+        "division": "78",
+        "address": "Liberty Circle",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "Liberty Circle Goshamahal Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4786137,
+          17.4060425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "Central",
+        "circle": "8",
+        "division": "78",
+        "address": "Meternity Hospital Koti",
+        "constituency": "Goshamahal",
+        "city": "Hyderabad",
+        "completeaddress": "Meternity Hospital Koti Goshamahal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4872461,
+          17.3860881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "10",
+        "division": "100",
+        "address": "ESI Hospital",
+        "constituency": "Jubilee Hills",
+        "city": "Hyderabad",
+        "completeaddress": "ESI Hospital Jubilee Hills Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4404221,
+          17.4483599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "10",
+        "division": "101",
+        "address": "Erragadda",
+        "constituency": "Jubilee Hills",
+        "city": "Hyderabad",
+        "completeaddress": "Erragadda Jubilee Hills Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4251967,
+          17.455867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "10",
+        "division": "103",
+        "address": "Borabanda",
+        "constituency": "Jubilee Hills",
+        "city": "Hyderabad",
+        "completeaddress": "Borabanda Jubilee Hills Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4130138,
+          17.4534663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "10",
+        "division": "96",
+        "address": "Sri Krishna Nagar,Yousufguda",
+        "constituency": "Jubiliee Hills",
+        "city": "Hyderabad",
+        "completeaddress": "Sri Krishna Nagar,Yousufguda Jubiliee Hills Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4270534,
+          17.4305565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "10",
+        "division": "96",
+        "address": "Yousufguda,Vengal Rao Nagar",
+        "constituency": "Jubiliee Hills",
+        "city": "Hyderabad",
+        "completeaddress": "Yousufguda,Vengal Rao Nagar Jubiliee Hills Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4390881,
+          17.4425851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "7",
+        "division": "66",
+        "address": "Langar House",
+        "constituency": "Karwan",
+        "city": "Hyderabad",
+        "completeaddress": "Langar House Karwan Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4374017,
+          17.378812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "7B",
+        "division": "67",
+        "address": "Golconda Fort Labour Adda, Near Farehem Darwaza",
+        "constituency": "Karwan",
+        "city": "Hyderabad",
+        "completeaddress": "Golconda Fort Labour Adda, Near Farehem Darwaza Karwan Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4010528,
+          17.383309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "7B",
+        "division": "68",
+        "address": "Tolichowki X Roads",
+        "constituency": "Karwan",
+        "city": "Hyderabad",
+        "completeaddress": "Tolichowki X Roads Karwan Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4168136,
+          17.3988392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "9B",
+        "division": "79",
+        "address": "Ramkoti",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "Ramkoti Khairathabad Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.486095,
+          17.390486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "10",
+        "division": "91",
+        "address": "Khiratabad",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "Khiratabad Khairathabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4652316,
+          17.4105858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "10",
+        "division": "91",
+        "address": "Nims Hospital",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "Nims Hospital Khairathabad Hyderabad ",
+        "persons": "480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4520067,
+          17.421937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "Central",
+        "circle": "10",
+        "division": "91",
+        "address": "Lakdikapool Dwarraka Hotel",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "Lakdikapool Dwarraka Hotel Khairathabad Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4639383,
+          17.4054102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "Central",
+        "circle": "10",
+        "division": "92",
+        "address": "Basava Tarakam Cancer Hospital",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "Basava Tarakam Cancer Hospital Khairathabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4305233,
+          17.4171079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "Central",
+        "circle": "10 B",
+        "division": "93",
+        "address": "NBT Nagar Kaman, Road No-12, Banjara Hills",
+        "constituency": "Khairathabad",
+        "city": "Hyderabad",
+        "completeaddress": "NBT Nagar Kaman, Road No-12, Banjara Hills Khairathabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.437915,
+          17.409426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "West",
+        "circle": "14",
+        "division": "114",
+        "address": "KPHB 4th Phase Under Fly Over",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "KPHB 4th Phase Under Fly Over Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3881555,
+          17.4721896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "West",
+        "circle": "14A",
+        "division": "115",
+        "address": "KPHB Colony Bus Stop",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "KPHB Colony Bus Stop Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.401346,
+          17.491003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "West",
+        "circle": "14",
+        "division": "116",
+        "address": "Parvath Nagar,Allapur Division",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Parvath Nagar,Allapur Division Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4014965,
+          17.4553338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "West",
+        "circle": "14",
+        "division": "117",
+        "address": "Moosapet Goods Shed",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Moosapet Goods Shed Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4206154,
+          17.4642912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "West",
+        "circle": "14",
+        "division": "117",
+        "address": "Moosapet",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Moosapet Kukatpally Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4254105,
+          17.4664636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "West",
+        "circle": "14",
+        "division": "118",
+        "address": "Shobana Colony Vegetable Market",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Shobana Colony Vegetable Market Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4351382,
+          17.4516742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "West",
+        "circle": "14",
+        "division": "119",
+        "address": "Hashmathpet, Ambedkar Statue",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Hashmathpet, Ambedkar Statue Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4041636,
+          17.50279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "West",
+        "circle": "14 B",
+        "division": "120",
+        "address": "Balanagar X Roads",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Balanagar X Roads Kukatpally Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.445111,
+          17.467465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "9",
+        "zone": "West",
+        "circle": "14",
+        "division": "121",
+        "address": "Kukatpally",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Kukatpally Kukatpally Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3953462,
+          17.4875418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "10",
+        "zone": "West",
+        "circle": "14",
+        "division": "121",
+        "address": "Prashanth Nagar",
+        "constituency": "Kukatpally",
+        "city": "Hyderabad",
+        "completeaddress": "Prashanth Nagar Kukatpally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4262909,
+          17.4813926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "East",
+        "circle": "3",
+        "division": "18",
+        "address": "L B Nagar",
+        "constituency": "L-B-Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "L B Nagar L-B-Nagar Hyderabad ",
+        "persons": "540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5522296,
+          17.3457176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "East",
+        "circle": "3A",
+        "division": "14",
+        "address": "Near NGOs Colony Busstop",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Near NGOs Colony Busstop LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.566474,
+          17.324841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "East",
+        "circle": "3B",
+        "division": "15",
+        "address": "Opp- Sitara, Gunti Jangaiah Colony",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Opp- Sitara, Gunti Jangaiah Colony LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5504768,
+          17.3435303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "East",
+        "circle": "3B",
+        "division": "15",
+        "address": "Near Rythu Bazar, Vanasthalipuram",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Near Rythu Bazar, Vanasthalipuram LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.57549,
+          17.3312584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "East",
+        "circle": "3B",
+        "division": "16",
+        "address": "Opp- Sri Nilayam, Sagar Road",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Opp- Sri Nilayam, Sagar Road LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5482094,
+          17.340618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "East",
+        "circle": "3C",
+        "division": "19",
+        "address": "Gandhi Statue, Saroornagar",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Gandhi Statue, Saroornagar LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5321734,
+          17.3545787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "East",
+        "circle": "3C",
+        "division": "20",
+        "address": "NTR Nagar, Rythu Bazar",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "NTR Nagar, Rythu Bazar LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5463873,
+          17.3555975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "East",
+        "circle": "3C",
+        "division": "22",
+        "address": "Gaddiannaram Fruit Market",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Gaddiannaram Fruit Market LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5351718,
+          17.3695906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "East",
+        "circle": "3C",
+        "division": "23",
+        "address": "P&T Colony Chowrasta",
+        "constituency": "LB Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "P&T Colony Chowrasta LB Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5522296,
+          17.3457176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "4A",
+        "division": "24",
+        "address": "Sankeshwar Bazar",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Sankeshwar Bazar Malakpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5199399,
+          17.3593474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "4A",
+        "division": "25",
+        "address": "Moosrambagh X Road",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Moosrambagh X Road Malakpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5148655,
+          17.3698255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "4",
+        "division": "26",
+        "address": "Mehabbob Gunj",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Mehabbob Gunj Malakpet Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5055787,
+          17.3761845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "4",
+        "division": "26",
+        "address": "Malakpet Area Hospital",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Malakpet Area Hospital Malakpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4988732,
+          17.3726548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "South",
+        "circle": "4A",
+        "division": "26",
+        "address": "Old Malakpet Market, Opp- Agricultural Office",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Old Malakpet Market, Opp- Agricultural Office Malakpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5007812,
+          17.3786367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "South",
+        "circle": "4A",
+        "division": "26",
+        "address": "Nalgonda X Roads",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Nalgonda X Roads Malakpet Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.498617,
+          17.375365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "South",
+        "circle": "4",
+        "division": "28",
+        "address": "Azampura Chaman (Unani Hospital)",
+        "constituency": "Malakpet",
+        "city": "Hyderabad",
+        "completeaddress": "Azampura Chaman (Unani Hospital) Malakpet Hyderabad ",
+        "persons": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4927842,
+          17.3759657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "North",
+        "circle": "16",
+        "division": "134",
+        "address": "Alwal",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "Alwal Malkajgiri Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5322481,
+          17.4503375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "North",
+        "circle": "16",
+        "division": "135",
+        "address": "Kanajiguda",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "Kanajiguda Malkajgiri Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.498635,
+          17.4862501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "North",
+        "circle": "17",
+        "division": "136",
+        "address": "Neeredmet",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "Neeredmet Malkajgiri Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.539058,
+          17.4711342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "North",
+        "circle": "17",
+        "division": "137",
+        "address": "Vinayak Nagar, Malkajgiri",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "Vinayak Nagar, Malkajgiri Malkajgiri Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5436511,
+          17.4693424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "North",
+        "circle": "17",
+        "division": "139",
+        "address": "East Anand Bagh",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "East Anand Bagh Malkajgiri Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5456134,
+          17.4547073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "North",
+        "circle": "17",
+        "division": "140",
+        "address": "Malakjigiri",
+        "constituency": "Malkajgiri",
+        "city": "Hyderabad",
+        "completeaddress": "Malakjigiri Malkajgiri Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5322481,
+          17.4503375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "9",
+        "division": "86",
+        "address": "Musheerabad",
+        "constituency": "Musheerabad",
+        "city": "Hyderabad",
+        "completeaddress": "Musheerabad Musheerabad Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4990004,
+          17.4196548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "9A",
+        "division": "86",
+        "address": "Bholakpur, Musheerabad",
+        "constituency": "Musheerabad",
+        "city": "Hyderabad",
+        "completeaddress": "Bholakpur, Musheerabad Musheerabad Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.498635,
+          17.4207177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "9",
+        "division": "87",
+        "address": "Sundaraiah Park",
+        "constituency": "Musheerabad",
+        "city": "Hyderabad",
+        "completeaddress": "Sundaraiah Park Musheerabad Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4976538,
+          17.3981978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "Central",
+        "circle": "9",
+        "division": "89",
+        "address": "City Central Library",
+        "constituency": "Musheerabad",
+        "city": "Hyderabad",
+        "completeaddress": "City Central Library Musheerabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4917865,
+          17.4040964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "Central",
+        "circle": "9A",
+        "division": "90",
+        "address": "Dharna Chowk",
+        "constituency": "Musheerabad",
+        "city": "Hyderabad",
+        "completeaddress": "Dharna Chowk Musheerabad Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4990004,
+          17.4196548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "7",
+        "division": "70",
+        "address": "Mehdipatanam",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Mehdipatanam Nampally Hyderabad ",
+        "persons": "540"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4638649,
+          17.3861371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "7",
+        "division": "71",
+        "address": "Gudimalkapur",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Gudimalkapur Nampally Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4374024,
+          17.3787821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "Central",
+        "circle": "7A",
+        "division": "74",
+        "address": "Telugu Sankshema Bhavan",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Telugu Sankshema Bhavan Nampally Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4502715,
+          17.4029827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "Central",
+        "circle": "7",
+        "division": "75",
+        "address": "Lakdikapool Police Station",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Lakdikapool Police Station Nampally Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4578441,
+          17.3988373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "Central",
+        "circle": "7",
+        "division": "75",
+        "address": "ChintalBasti",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "ChintalBasti Nampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4567223,
+          17.4073581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "Central",
+        "circle": "7",
+        "division": "75",
+        "address": "Niloufer Hospital",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Niloufer Hospital Nampally Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4610887,
+          17.3989873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "Central",
+        "circle": "7A",
+        "division": "75",
+        "address": "Assembly",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Assembly Nampally Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4638649,
+          17.3861371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "Central",
+        "circle": "7",
+        "division": "76",
+        "address": "Nampally Hospital, Bazaarghat",
+        "constituency": "Nampally",
+        "city": "Hyderabad",
+        "completeaddress": "Nampally Hospital, Bazaarghat Nampally Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4632945,
+          17.3922731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "West",
+        "circle": "11",
+        "division": "106",
+        "address": "Tara Nagar Vegetabel Market",
+        "constituency": "Patancheru",
+        "city": "Hyderabad",
+        "completeaddress": "Tara Nagar Vegetabel Market Patancheru Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2611912,
+          17.5303828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "West",
+        "circle": "13",
+        "division": "112",
+        "address": "BHEL",
+        "constituency": "Patancheru",
+        "city": "Hyderabad",
+        "completeaddress": "BHEL Patancheru Hyderabad ",
+        "persons": "480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2920407,
+          17.491595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "West",
+        "circle": "13",
+        "division": "113",
+        "address": "Patancheru",
+        "constituency": "Patancheru",
+        "city": "Hyderabad",
+        "completeaddress": "Patancheru Patancheru Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.266725,
+          17.5287427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "North",
+        "circle": "15",
+        "division": "126",
+        "address": "Jagatgirigutta",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Jagatgirigutta Quthubullapur Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4636839,
+          17.4983928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "North",
+        "circle": "15A",
+        "division": "128",
+        "address": "Chintal AsianTheatre",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Chintal AsianTheatre Quthubullapur Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4520035,
+          17.4922294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "North",
+        "circle": "15",
+        "division": "129",
+        "address": "Suraram",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Suraram Quthubullapur Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4636839,
+          17.4983928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "West",
+        "circle": "15B",
+        "division": "129",
+        "address": "Malla Reddy Hospital Opp",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Malla Reddy Hospital Opp Quthubullapur Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4326447,
+          17.5453562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "North",
+        "circle": "15",
+        "division": "130",
+        "address": "Shapur",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Shapur Quthubullapur Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4466,
+          17.5166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "North",
+        "circle": "15A",
+        "division": "132",
+        "address": "Suchitra 'X' Roads",
+        "constituency": "Quthubullapur",
+        "city": "Hyderabad",
+        "completeaddress": "Suchitra 'X' Roads Quthubullapur Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4767335,
+          17.4991414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "6",
+        "division": "57",
+        "address": "Chintalmet X Road",
+        "constituency": "Rajendra Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Chintalmet X Road Rajendra Nagar Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4219168,
+          17.3520998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "6",
+        "division": "58",
+        "address": "Vattepally Road",
+        "constituency": "Rajendra Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Vattepally Road Rajendra Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4595914,
+          17.3299613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "6",
+        "division": "59",
+        "address": "Katedan",
+        "constituency": "Rajendra Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Katedan Rajendra Nagar Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4366686,
+          17.3139044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "6",
+        "division": "61",
+        "address": "Hyder guda X roads",
+        "constituency": "Rajendra Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Hyder guda X roads Rajendra Nagar Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4245832,
+          17.3638957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "Central",
+        "circle": "10",
+        "division": "98",
+        "address": "Ameerpet",
+        "constituency": "Sanath Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Ameerpet Sanath Nagar Hyderabad ",
+        "persons": "720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4482441,
+          17.4375084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "Central",
+        "circle": "10",
+        "division": "100",
+        "address": "Sanath Nagar Bustand",
+        "constituency": "Sanath Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Sanath Nagar Bustand Sanath Nagar Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4478486,
+          17.4550248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "North",
+        "circle": "18",
+        "division": "148",
+        "address": "Mahankali Temple",
+        "constituency": "Sanath Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Mahankali Temple Sanath Nagar Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4326018,
+          17.4556632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "North",
+        "circle": "18",
+        "division": "150",
+        "address": "Secunderabad",
+        "constituency": "Sanath Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Secunderabad Sanath Nagar Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4439295,
+          17.4562544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "North",
+        "circle": "18",
+        "division": "150",
+        "address": "Monda Market",
+        "constituency": "Sanath Nagar",
+        "city": "Hyderabad",
+        "completeaddress": "Monda Market Sanath Nagar Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4969923,
+          17.4338503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "North",
+        "circle": "18",
+        "division": "143",
+        "address": "Lalapet",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Lalapet Secunderabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5415953,
+          17.4388655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "North",
+        "circle": "18",
+        "division": "143",
+        "address": "Manikeshwar Nagar",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Manikeshwar Nagar Secunderabad Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5227802,
+          17.4206635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "North",
+        "circle": "18",
+        "division": "145",
+        "address": "Chilkalguda Main Road",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Chilkalguda Main Road Secunderabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.511959,
+          17.430054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "North",
+        "circle": "18",
+        "division": "147",
+        "address": "Gandhi Hospital",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Gandhi Hospital Secunderabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5043917,
+          17.4246598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "North",
+        "circle": "18",
+        "division": "150",
+        "address": "Alladipentiah nagar",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Alladipentiah nagar Secunderabad Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4982741,
+          17.4399295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "North",
+        "circle": "18",
+        "division": "150",
+        "address": "Opp- Uppal Bus Stop, Secunderabad",
+        "constituency": "Secunderabad",
+        "city": "Hyderabad",
+        "completeaddress": "Opp- Uppal Bus Stop, Secunderabad Secunderabad Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5686688,
+          17.4033817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "West",
+        "circle": "11",
+        "division": "104",
+        "address": "Gachibowli under flyover",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Gachibowli under flyover Serilingampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3158338,
+          17.4836979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "West",
+        "circle": "11",
+        "division": "104",
+        "address": "Anjaya Nagar Labour Adda",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Anjaya Nagar Labour Adda Serilingampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3650231,
+          17.4492973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "West",
+        "circle": "11",
+        "division": "105",
+        "address": "Khajaguda, Anjaneya swamy temple",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Khajaguda, Anjaneya swamy temple Serilingampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3641592,
+          17.4178862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "West",
+        "circle": "12",
+        "division": "107",
+        "address": "Madhapur",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Madhapur Serilingampally Hyderabad ",
+        "persons": "720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3908035,
+          17.4485835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "West",
+        "circle": "12",
+        "division": "108",
+        "address": "Miyapur X Road",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Miyapur X Road Serilingampally Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.361613,
+          17.49789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "West",
+        "circle": "12",
+        "division": "109",
+        "address": "Hafeezpet Miyapur Autostand",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Hafeezpet Miyapur Autostand Serilingampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3729359,
+          17.4964542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "West",
+        "circle": "12",
+        "division": "110",
+        "address": "Chanda Nagar",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Chanda Nagar Serilingampally Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3277948,
+          17.4934113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "West",
+        "circle": "14",
+        "division": "124",
+        "address": "Allwyn Colony",
+        "constituency": "Serilingampally",
+        "city": "Hyderabad",
+        "completeaddress": "Allwyn Colony Serilingampally Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3497563,
+          17.489097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "East",
+        "circle": "1",
+        "division": "1",
+        "address": "Netaji Nagar X-Road, Ayodya Nagar",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Netaji Nagar X-Road, Ayodya Nagar Uppal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5547128,
+          17.4856222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "East",
+        "circle": "1",
+        "division": "3",
+        "address": "Kushaiguda Bus stand, Cherlapally ward",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Kushaiguda Bus stand, Cherlapally ward Uppal Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5699471,
+          17.4802826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "East",
+        "circle": "1",
+        "division": "3",
+        "address": "Cherlapally",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Cherlapally Uppal Hyderabad ",
+        "persons": "360"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5958017,
+          17.4625471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "East",
+        "circle": "1",
+        "division": "4",
+        "address": "Meerpet HB colony",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Meerpet HB colony Uppal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5280016,
+          17.3227982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "5",
+        "zone": "East",
+        "circle": "1",
+        "division": "6",
+        "address": "ESI - Nacharam",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "ESI - Nacharam Uppal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5425915,
+          17.4152407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "6",
+        "zone": "East",
+        "circle": "2",
+        "division": "9",
+        "address": "Ramanthapur",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Ramanthapur Uppal Hyderabad ",
+        "persons": "300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5527854,
+          17.4011593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "7",
+        "zone": "East",
+        "circle": "2",
+        "division": "9",
+        "address": "Chiluka Nagar",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Chiluka Nagar Uppal Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5614716,
+          17.4218115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "8",
+        "zone": "East",
+        "circle": "2",
+        "division": "10",
+        "address": "Uppal Chowrastha",
+        "constituency": "Uppal",
+        "city": "Hyderabad",
+        "completeaddress": "Uppal Chowrastha Uppal Hyderabad ",
+        "persons": "420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5605019,
+          17.4009661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "1",
+        "zone": "South",
+        "circle": "4B",
+        "division": "19",
+        "address": "Padmavathi College, IS Sadan",
+        "constituency": "Yakathpura",
+        "city": "Hyderabad",
+        "completeaddress": "Padmavathi College, IS Sadan Yakathpura Hyderabad ",
+        "persons": "120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5150704,
+          17.3547525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "2",
+        "zone": "South",
+        "circle": "4",
+        "division": "30",
+        "address": "Bada Bazar Yakuthpura",
+        "constituency": "Yakathpura",
+        "city": "Hyderabad",
+        "completeaddress": "Bada Bazar Yakuthpura Yakathpura Hyderabad ",
+        "persons": "60"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4885136,
+          17.3609846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "4",
+        "zone": "South",
+        "circle": "4",
+        "division": "38",
+        "address": "Madannapet mandi",
+        "constituency": "Yakathpura",
+        "city": "Hyderabad",
+        "completeaddress": "Madannapet mandi Yakathpura Hyderabad ",
+        "persons": "240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.503429,
+          17.3582098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "number": "3",
+        "zone": "South",
+        "circle": "4B",
+        "division": "35",
+        "address": "Laladarwaza",
+        "constituency": "Yakathpura",
+        "city": "Hyderabad",
+        "completeaddress": "Laladarwaza Yakathpura Hyderabad ",
+        "persons": "180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4766152,
+          17.3473756
+        ]
+      }
+    }
+  ]
+}
